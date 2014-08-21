@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<title>Out and Up | Home</title>
+	</head>
+	<body>
+		<div id="wrapper">
+			<header><img src="logo.png" alt="Logo">
+				<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</li>
+					<li><a href="contact.html">Contact</li>
+				</ul>
+				</nav>
+			</header>
+			<section>
+				<a href="#"><div class="index-post"><img src="images/activity-thumbnail.jpg" alt="activity-thumbnail"></a>
+				<a href="#">Activities</a>
+				<p>Take a look at what we have to offer here. Ropeswings, assault courses and quad bikes will strengthen your group by forming a strong team-ethic; all in a fun and safe environment.</p>
+				</div>
+				<a href="#"><div class="index-post"><img src="images/thumbnail.png" alt="thumbnail"></a>
+				<a href="#">This is the Title of this Post</a>
+				<p>This is the short summary of this post. Read this for more information. Yeah so this is a paragraph that's just for filler space just look at it for examples and stuff.</p>
+				</div>
+				<a href="#"><div class="index-post"><img src="images/thumbnail.png" alt="thumbnail"></a>
+				<a href="#">This is the Title of this Post</a>
+				<p>This is the short summary of this post. Read this for more information. Yeah so this is a paragraph that's just for filler space just look at it for examples and stuff.</p>
+				</div>
+			</section>
+			<aside>
+			<img src="images/dummy-aside.png" alt= "Dummy-aside">
+			<a class="title-links" href="#">This is the Title of the Post</a>
+			</aside>
+			<footer>
+				<ul>
+					<li>&copy; Charlie White 2014</li> <li><a href="sources.html">Resources</li>
+				</ul>
+			</footer>
+		</div>
+	</body>
+</html>
